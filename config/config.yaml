@@ -1,0 +1,9 @@
+project:
+  name: smart_agriculture_ai
+  environment: development
+
+weather:
+  model_path: models/weather_model.pth
+
+crop:
+  model_path: models/crop_model.pth
